@@ -19,7 +19,7 @@
 
 #### Check out these projects 🔍
  [🌆 Neighborhood](https://github.com/Timjini/aid-frontend) <br/>
- [🚴‍♂️ Bike-race](https://github.com/Timjini/bike-race)
+ [🚴‍♂️ Bike-race](https://github.com/Timjini/bikerace)
 
 #### Current projects 
 <ul>
