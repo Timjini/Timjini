@@ -18,6 +18,19 @@
 </ul>
 
 #### Check out these projects 🔍
- [🌆 Neighborhood](https://github.com/Timjini/aid-frontend)
+ [🌆 Neighborhood](https://github.com/Timjini/aid-frontend) <br/>
+ [🚴‍♂️ Bike-race](https://github.com/Timjini/bike-race)
+
+#### Current projects 
+<ul>
+  <li>Redesign of a travel agency in Morocco <a href="https://www.google.com/search?q=emotions+morocco+agadir&oq=emotions+morocco+agadir&aqs=chrome..69i57j33i10i160.3907j0j4&sourceid=chrome&ie=UTF-8#" target="_blank"> Emotions Morocco Agadir</a></li>
+  <li>A Web application for a gym center <a href="https://www.instagram.com/coach_issam_agadir" target="_blank">Kickboxing Morocco</a></li>
+  <li>Rebuilding <a href="https://en.wikipedia.org/wiki/Dwain_Chambers" target="_blank">Dwain Chamber's</a> Website</li>
+</ul>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Timjini)](https://github.com/Timjini)
+
+# [Contact 📬](https://devhl.dev)
+[Portfolio](https://devhl.dev),hatim.jini@gmail.com, <a href="tel:+905412492756" target"_blank">Call me</a>
+
+
