@@ -31,6 +31,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Timjini)](https://github.com/Timjini)
 
 # [Contact 📬](https://devhl.dev)
-[Portfolio](https://devhl.dev),hatim.jini@gmail.com, <a href="tel:+905412492756" target"_blank">Call me</a>
-
+[Portfolio](https://devhl.dev) <br/>
+hatim.jini@gmail.com
 
