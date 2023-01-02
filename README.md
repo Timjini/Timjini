@@ -3,10 +3,6 @@
 
 ####  Skills :
 <ul>
-  <li> Design </li>
-  <ul>
-    <li>Web-design & Graphic design </li>
-  </ul>
   <li>Front-end</li>
   <ul>
     <li>ReactJs, Redux, NextJs, REST API, GraphQl</li>
@@ -14,6 +10,10 @@
   <li>Back-end</li>
   <ul>
     <li>Ruby on rails, Postgres, APIs,Testing</li>
+  </ul>
+   <li> Design </li>
+  <ul>
+    <li>Web-design & Graphic design </li>
   </ul>
 </ul>
 
