@@ -29,7 +29,7 @@
 <ul>
   <li>Rebuilding <a href="https://chambersforsport.com" target="_blank">Dwain Chamber's</a> Website</li>
   <li>Redesign of a travel agency in Morocco <a href="https://github.com/Timjini/emotion-agency" target="_blank"> Emotions Morocco Agadir</a></li>
-  <li>A Web application for a gym center <a href="https://coachissam.com" target="_blank">Kickboxing Morocco</a></li>
+  <li>A Web application for a gym center <a href="https://www.coachissam.com" target="_blank">Kickboxing Morocco</a></li>
 </ul>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Timjini)](https://github.com/Timjini)
