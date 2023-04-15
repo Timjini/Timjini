@@ -22,8 +22,8 @@
  [🚴‍♂️ Bike-race](https://github.com/Timjini/bikerace)
  
  #### More Projects with Open Classrooms
- [Fitness App]([https://github.com/Timjini/aid-frontend](https://github.com/Timjini/fitness-app)) <br/>
- [Film Festival]([https://github.com/Timjini/bikerace](https://github.com/Timjini/film-festival))
+ [Fitness App](https://github.com/Timjini/fitness-app) <br/>
+ [Film Festival](https://github.com/Timjini/film-festival)
 
 #### Current projects 
 <ul>
