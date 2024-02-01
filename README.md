@@ -2,7 +2,7 @@
 > I'm a Full-Stack Developer with a passion for building beautiful, intuitive, and functional websites and applications.
 
 ### Currently working on : 
-  [skillmasters.io](https://skillmsters.io)
+  [skillmasters.io]([https://skillmsters.io](https://skillmasters.io/))
 
 ####  Skills :
 <ul>
